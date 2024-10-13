@@ -13,6 +13,10 @@ Click the button below to open the tool in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooked-on-mas/AutoGenBook/blob/main/AutoGenBook.ipynb)
 
+日本語で使用したい場合は以下のGoogle Colabを利用してください．
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooked-on-mas/AutoGenBook/blob/main/AutoGenBookJP.ipynb)
+
 ## What’s Inside AutoGenBook
 
 While you can dive into the code for all the details, I realize that it might be a bit hard to follow, so let me explain the basic idea and workflow behind the tool.
