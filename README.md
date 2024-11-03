@@ -22,7 +22,7 @@ Click the button below to open the tool in Google Colab:
 
 You can view a sample of the generated textbook, "Linear Algebra for Machine Learning: A Practical Guide with Numpy" in PDF format here:
 
-[Click here to view the sample textbook on Google Drive]()
+[Click here to view the sample textbook on Google Drive](https://drive.google.com/file/d/1hOh7vD9ftIzlfTQGm9zwaRSnoQJgq0Y0/view?usp=sharing)
 
 ## What’s Inside AutoGenBook
 
