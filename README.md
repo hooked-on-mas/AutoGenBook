@@ -3,9 +3,14 @@ AutoGenBook is a Python-based tool that automatically generates books using LLMs
 
 ## How to Use
 
+🇯🇵 ➡️ [使い方](./READMEJP.md), 🇰🇷 ➡️ [사용법](./READMEKR.md), 🇨🇳 ➡️ [使用方法](./READMECN.md)
+
 ### Getting and Setting Up the OpenAI API Key
 
 This tool requires an OpenAI API key. Once you obtain the API key, click on the key icon on the left-hand menu in Google Colab and register it with the name `openai_api`.
+
+![image](https://github.com/user-attachments/assets/64e3ad1b-9eb9-4746-8485-e3318e269573)
+
 
 ### Running the Tool on Google Colab
 
@@ -13,9 +18,11 @@ Click the button below to open the tool in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooked-on-mas/AutoGenBook/blob/main/AutoGenBook.ipynb)
 
-日本語で使用したい場合は以下のGoogle Colabを利用してください．
+## Sample Textbook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooked-on-mas/AutoGenBook/blob/main/AutoGenBookJP.ipynb)
+You can view a sample of the generated textbook, "Linear Algebra for Machine Learning: A Practical Guide with Numpy" in PDF format here:
+
+[Click here to view the sample textbook on Google Drive]()
 
 ## What’s Inside AutoGenBook
 
