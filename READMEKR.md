@@ -17,7 +17,7 @@ AutoGenBook은 LLM(대규모 언어 모델)을 사용하여 책을 자동으로 
 
 ## 샘플 교과서
 
-생성된 교과서 샘플 "기계 학습을 위한 선형 대수학: Numpy로 배우는 실전 가이드"를 PDF 형식으로 여기서 확인할 수 있습니다：
+생성된 교과서 샘플 "선형 대수와 기계 학습_ 넘파이와 함께하는 실습 중심 접근"를 PDF 형식으로 여기서 확인할 수 있습니다：
 
 [Google Drive로 이동](https://drive.google.com/file/d/1KudNpRv7AnPx7ympcGfBSiaB3SJTHk0u/view?usp=sharing)
 

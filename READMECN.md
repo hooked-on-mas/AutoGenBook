@@ -17,7 +17,7 @@ AutoGenBook 是一个基于 Python 的工具，使用 LLM（大型语言模型�
 
 ## 教科书示例
 
-可以在这里以 PDF 格式查看生成的教科书示例“线性代数：机器学习的 Numpy 实践指南”：
+可以在这里以 PDF 格式查看生成的教科书示例“线性代数与机器学习：从理论到实践”：
 
 [前往Google Drive](https://drive.google.com/file/d/1n3lnKkex9fLdmMoXYENnE52Au0XH9dkz/view?usp=sharing)
 

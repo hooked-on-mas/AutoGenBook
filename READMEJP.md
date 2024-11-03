@@ -18,9 +18,9 @@ AutoGenBookは、LLM（大規模言語モデル）を用いて本を自動生成
 
 ## サンプル教科書
 
-生成された教科書のサンプル「機械学習のための線形代数：Numpyによる実践ガイド」をPDF形式でこちらから閲覧できます：
+生成された教科書のサンプル「機械学習のための線形代数：Numpyによる実践ガイド」をPDF形式で以下から閲覧できます．
 
-[Google Driveに飛びます](リンクはこちらに)
+[Google Driveに飛びます](https://drive.google.com/file/d/1UItpy9Xq98TuzMOzFMozbvoMDMBwe9uS/view?usp=sharing)
 
 ## AutoGenBookの中身
 
